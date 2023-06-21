@@ -14,3 +14,12 @@ main {
     padding: 10px;
     box-shadow: 3px 3 px 5px black;
 }
+
+
+    img.lado{
+        float: left;
+    }
+
+    img.down{
+        float: inline-end;
+    }
